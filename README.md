@@ -2,8 +2,10 @@
 
 ## Build and Deploy (GH_Pages)
 	
-	npm run deploy
+
+	ng build --configuration=production
 	
+	npx angular-cli-ghpages --dir=dist/multi_tool/browser
 
 
 
