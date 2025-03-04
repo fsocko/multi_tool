@@ -8,6 +8,12 @@
 	npx angular-cli-ghpages --dir=dist/multi_tool/browser
 
 
+### script:
+=======
+
+	npm run deploy
+	
+=======
 
 ### URL:
 	https://fsocko.github.io/multi_tool/
